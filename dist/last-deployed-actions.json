@@ -1,0 +1,9 @@
+{
+  "course-labs/product-enrichment": "e42810e1655db775e294457088faccead7f0257a3a040d6142175729802ae79a",
+  "app-management/__secured_app-config": "1f26d167f8f39268e2e0738161367748be3d545a8598087f7d473b060bbc3aa1",
+  "app-management/__secured_association": "3ee9dc61cccd8d5c60798bc75c585269a6e334c4a8b5a0b24b35298f50f76fc8",
+  "app-management/__secured_installation": "ded516cc3b42c4ac63ef9d65d66ecaf8071b4bd5dc9743706ec999c7f0db926b",
+  "app-management/app-config": "1aae1338af86a359e226fa6c6b13633b7f0997d13769273107249fcccabee339",
+  "app-management/association": "131a3d58aa1d4ba35a47a52189555b6d0fedc899ed8c68bfcb66df1e8ed100ea",
+  "app-management/installation": "8872f3be8ba106e10f4042c0df6a6d3d03a0d1a85f08e292dc8f8d68715ac868"
+}
